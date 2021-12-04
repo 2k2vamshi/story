@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world , there are no times
-=======
 hello workld , times cool
->>>>>>> abstract
